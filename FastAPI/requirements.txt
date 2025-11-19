@@ -5,3 +5,4 @@ pydantic
 fastapi
 scikit-learn
 json
+uvicorn
