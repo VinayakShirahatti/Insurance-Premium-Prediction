@@ -3,4 +3,5 @@ requests
 streamlit
 pydantic
 fastapi
+scikit-learn
 json
